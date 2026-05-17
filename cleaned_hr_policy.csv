@@ -1,0 +1,61 @@
+policy_id,policy_category,policy_title,policy_text,search_text
+HR001,Leave Policy,Annual Leave,Employees are eligible for 18 paid leaves per calendar year.,"Policy ID: HR001
+Category: Leave Policy
+Policy Title: Annual Leave
+Policy Details: Employees are eligible for 18 paid leaves per calendar year."
+HR002,Leave Policy,Leave Carry Forward,Employees can carry forward up to 5 unused annual leaves to the next calendar year.,"Policy ID: HR002
+Category: Leave Policy
+Policy Title: Leave Carry Forward
+Policy Details: Employees can carry forward up to 5 unused annual leaves to the next calendar year."
+HR003,Leave Policy,Sick Leave,Employees are eligible for 7 sick leaves per calendar year. Sick leave should be informed to the manager as soon as possible.,"Policy ID: HR003
+Category: Leave Policy
+Policy Title: Sick Leave
+Policy Details: Employees are eligible for 7 sick leaves per calendar year. Sick leave should be informed to the manager as soon as possible."
+HR004,Leave Policy,Leave Approval,Planned leave must be applied at least 5 working days in advance and approved by the reporting manager.,"Policy ID: HR004
+Category: Leave Policy
+Policy Title: Leave Approval
+Policy Details: Planned leave must be applied at least 5 working days in advance and approved by the reporting manager."
+HR005,Work From Home Policy,WFH Eligibility,Employees may work from home up to 2 days per week with prior approval from their reporting manager.,"Policy ID: HR005
+Category: Work From Home Policy
+Policy Title: WFH Eligibility
+Policy Details: Employees may work from home up to 2 days per week with prior approval from their reporting manager."
+HR006,Work From Home Policy,WFH Availability,Employees working from home must be available on official communication channels during working hours.,"Policy ID: HR006
+Category: Work From Home Policy
+Policy Title: WFH Availability
+Policy Details: Employees working from home must be available on official communication channels during working hours."
+HR007,Travel Policy,Domestic Travel,Employees travelling for business must get travel approval before booking tickets.,"Policy ID: HR007
+Category: Travel Policy
+Policy Title: Domestic Travel
+Policy Details: Employees travelling for business must get travel approval before booking tickets."
+HR008,Travel Policy,Travel Reimbursement,Employees must submit travel reimbursement claims with valid bills within 7 days of trip completion.,"Policy ID: HR008
+Category: Travel Policy
+Policy Title: Travel Reimbursement
+Policy Details: Employees must submit travel reimbursement claims with valid bills within 7 days of trip completion."
+HR009,Expense Policy,Meal Expenses,Meal expenses during business travel can be claimed up to the approved daily limit with valid receipts.,"Policy ID: HR009
+Category: Expense Policy
+Policy Title: Meal Expenses
+Policy Details: Meal expenses during business travel can be claimed up to the approved daily limit with valid receipts."
+HR010,Expense Policy,Internet Reimbursement,Employees working remotely may claim internet reimbursement as per company-approved monthly limit.,"Policy ID: HR010
+Category: Expense Policy
+Policy Title: Internet Reimbursement
+Policy Details: Employees working remotely may claim internet reimbursement as per company-approved monthly limit."
+HR011,Notice Period Policy,Notice Period,Employees must serve a notice period of 60 days after resignation unless otherwise approved by HR.,"Policy ID: HR011
+Category: Notice Period Policy
+Policy Title: Notice Period
+Policy Details: Employees must serve a notice period of 60 days after resignation unless otherwise approved by HR."
+HR012,Code of Conduct,Confidential Information,Employees must not share confidential company or customer information with unauthorized persons.,"Policy ID: HR012
+Category: Code of Conduct
+Policy Title: Confidential Information
+Policy Details: Employees must not share confidential company or customer information with unauthorized persons."
+HR013,Code of Conduct,Workplace Behavior,"Employees are expected to maintain professional and respectful behavior with colleagues, customers, and partners.","Policy ID: HR013
+Category: Code of Conduct
+Policy Title: Workplace Behavior
+Policy Details: Employees are expected to maintain professional and respectful behavior with colleagues, customers, and partners."
+HR014,Medical Policy,Medical Insurance,Employees are covered under company-provided medical insurance as per the applicable policy plan.,"Policy ID: HR014
+Category: Medical Policy
+Policy Title: Medical Insurance
+Policy Details: Employees are covered under company-provided medical insurance as per the applicable policy plan."
+HR015,Medical Policy,Medical Reimbursement,Medical reimbursement claims must be submitted with valid medical bills and prescriptions.,"Policy ID: HR015
+Category: Medical Policy
+Policy Title: Medical Reimbursement
+Policy Details: Medical reimbursement claims must be submitted with valid medical bills and prescriptions."
